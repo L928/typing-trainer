@@ -1,0 +1,3 @@
+# this is to practive the motion of fingers to each key in clockwise order
+yuiop []'\/ .,mnbh
+qwertg vcxz\ 

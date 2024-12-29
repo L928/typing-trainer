@@ -1,0 +1,32 @@
+
+
+This is normal text.
+
+<b>This is bold text.</b> 
+
+<i>This is italic text.</i>
+
+<h1><i>This is italic heading 1.</i></h1>
+
+<font color=#ff0000>This is red text.</font>
+ 
+<h1 font color=#00ff00>This is marked green text.</h1>
+
+<em color=#00ffff>This is emphasized text.</em>
+	
+
+Emphasized
+	
+
+Same as i .
+
+font
+	
+
+Font size, family, and/or color
+	
+
+Supports the following attributes: size , face , and color (Qt color names or 
+ 
+ 
+This is again normal unformatted text.
